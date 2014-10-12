@@ -1,15 +1,15 @@
 NX505J
 ======
 
-**CM11 for Nubia Z7 Max**
-**Description and Credits**
+**CM11 for Nubia Z7 Max**:
+**Description and Credits**:
 This is CM11 for the Nubia Z7 Max Phone. It has been well tested including operating it for 1 month
 with no crashes. It is the original work of the Master Ace ROM compiler lwang. http://weibo.com/lwanggg
 developer credits going out to to syhost，zhaochengw.  And credits to kidputer for setting
 up this GitHub project to flow rapidly into a hopefully official CM soon. We will be presenting the device
 tree configuration as well as the kernel repository just as soon as these lastest issues are resolved. 
 
-**Service Notes**
+**Service Notes**:
 Prior to loading cm11 ROM into Nubia Z7 Max it is most advisable to Apply
 both Nubia.cn updates 1.29 and 1.38 to the phone as BOTH update the
 radios.  The radios were not flashed properly at the factory in most
@@ -41,22 +41,22 @@ If you need the Google Applications mentioned above.  Check the wiki for rooting
 help with the Nubia Z7 Max and some help with loading CM11. Please don't break your phone
 If you need help bring it to a person who knows SU, CWM and CM.
 
-**Current Issues**
+**Current Issues**:
 There are a few more things that are being worked out in this version troubleshooting.
 Gallery Thumbs and image parsing, dialer search crash, CPU speed optimization.
 Please report any additional issues you find so I can report to the compiler lwang.
 
-**Updated this version**
+**Updated this version**:
 Repair rely on network positioning in Google services
 Repair dial interface search flash back
 Optimize power consumption
 
-**Updated last version**
+**Updated last version**:
 Repair Card 2 ringtones and display settings
 Remove the built-in Google services , please download and install Magic Fun Center
 Repair depends on the GMS software can not locate a network problem
 
-**Updated Previous Version**
+**Updated Previous Version**:
 Update the camera , display, vibrator drive
 WIFI drivers and firmware updates
 Fix the problem linux kernel random number generator can not be used
@@ -74,12 +74,12 @@ Optimize temperature control module
 The screen flashes when some software or video software solution to repair ( to be tested )
 Repair some telecom card appears "No roaming Prompt" ( with test )
 
-**Please Report Bugs**
+**Please Report Bugs**:
 Please don't forget to post any issues you find with the software.  Make sure to look over
 The known issues from above and make sure you know limitations of multi-radio use and how to
 set multi radio use explained in this readme.  In addition to rooting help we will also make 
 a multi-radio configuration guide in the Wiki.
 
-**Version Truth Table**
+**Version Truth Table**:
 Compiled Sept 17, 2014 = = cm11_NX505J_2.0 = = 11-20140917-UNOFFICIAL-nx505j
 Compiled Sept 01, 2014 = = cm11_NX505J_1.0 = = 11-20140901-UNOFFICIAL-nx505j
