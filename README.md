@@ -90,4 +90,5 @@ a multi-radio configuration guide in the Wiki.
 **Version Truth Table**
 
 Compiled Sept 17, 2014 = = cm11_NX505J_2.0 = = 11-20140917-UNOFFICIAL-nx505j
+
 Compiled Sept 01, 2014 = = cm11_NX505J_1.0 = = 11-20140901-UNOFFICIAL-nx505j
