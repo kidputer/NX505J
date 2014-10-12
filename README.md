@@ -4,7 +4,7 @@ NX505J
 CM11 for Nubia Z7 Max
 
 This is CM11 for the Nubia Z7 Max Phone. It has been well tested including operating it for 1 month
-with no crashes. It is the original work of the master ROM compiler lwang. http://weibo.com/lwanggg
+with no crashes. It is the original work of the Master Ace ROM compiler lwang. http://weibo.com/lwanggg
 developer credits going out to to syhost，zhaochengw.  And credits to kidputer for setting
 up this GitHub project to flow rapidly into a hopefully official CM soon. We will be presenting the device
 tree configuration as well as the kernel repository just as soon as these lastest issues are resolved. 
@@ -33,7 +33,8 @@ ATT GSM/WCDMA/LTE Voice/Data also with T-Mobile, Walmart, Cricket Data at H, H+,
 More are possible but I only have a limited number of carrier and SIM for test. Also Verizon Test
 completed before last radio software update so I need to repeat.
 
-Once these Nubia.cn updates have been applied the you can wipe phone data
+Once these Nubia.cn updates have been applied the you can wipe phone data.
+
 areas using CWM v6.0.5.0 and apply cm11_NX505J_2.0 posted here.  Don't forget CM not
 permitted to include some Google Applications.  You should insall gapps.zip
 If you need the Google Applications mentioned above.  Check the wiki for rooting
@@ -77,3 +78,7 @@ Please don't forget to post any issues you find with the software.  Make sure to
 The known issues from above and make sure you know limitations of multi-radio use and how to
 set multi radio use explained in this readme.  In addition to rooting help we will also make 
 a multi-radio configuration guide in the Wiki.
+
+Version Truth Table-
+Compiled Sept 17, 2014 = = cm11_NX505J_2.0 = = 11-20140917-UNOFFICIAL-nx505j
+Compiled Sept 01, 2014 = = cm11_NX505J_1.0 = = 11-20140901-UNOFFICIAL-nx505j
