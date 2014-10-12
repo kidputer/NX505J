@@ -76,4 +76,4 @@ Repair some telecom card appears "No roaming Prompt" ( with test )
 Please don't forget to post any issues you find with the software.  Make sure to look over
 The known issues from above and make sure you know limitations of multi-radio use and how to
 set multi radio use explained in this readme.  In addition to rooting help we will also make 
-a multi raido configuration guide in the Wiki.
+a multi-radio configuration guide in the Wiki.
