@@ -5,7 +5,7 @@ CM11 for Nubia Z7 Max
 
 This is CM11 for the Nubia Z7 Max Phone. It has been well tested including operating it for 1 month
 with no crashes. It is the original work of the master ROM compiler lwang. http://weibo.com/lwanggg
-developer credits going out to to syhost，zhaochengw.  And credits to GeorgeDavey for setting
+developer credits going out to to syhost，zhaochengw.  And credits to kidputer for setting
 up this GitHub project to flow rapidly into a hopefully official CM soon. We will be presenting the device
 tree configuration as well as the kernel repository just as soon as these lastest issues are resolved. 
 
