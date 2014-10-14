@@ -50,7 +50,7 @@ Please report any additional issues you find so I can report to the compiler lwa
 
 **Updated this version**
 
-dialer search dialer stop
+dialer search dialer stop, 
 cpu opimizations
 
 **Updated last version**
