@@ -37,7 +37,7 @@ More are possible but I only have a limited number of carrier and SIM for test. 
 completed before last radio software update so I need to repeat.
 
 Once these Nubia.cn updates have been applied the you can wipe phone data
-areas using CWM v6.0.5.0 and apply cm11_NX505J_2.0 posted here.  Don't forget CM not
+areas using CWM v6.0.5.0 and apply cm11_NX505J_3.0 posted here.  Don't forget CM not
 permitted to include some Google Applications.  You should insall gapps.zip
 If you need the Google Applications mentioned above.  Check the wiki for rooting
 help with the Nubia Z7 Max and some help with loading CM11. Please don't break your phone
@@ -45,24 +45,25 @@ If you need help bring it to a person who knows SU, CWM and CM.
 
 **Current Issues**
 
-There are a few more things that are being worked out in this version troubleshooting.
-Gallery Thumbs and image parsing, dialer search crash, CPU speed optimization.
+Is anyone else having this issue with Gallery Thumbs?  My file permissions might be set wrong.
 Please report any additional issues you find so I can report to the compiler lwang.
 
 **Updated this version**
+
+dialer search dialer stop
+cpu opimizations
+
+**Updated last version**
 
 Repair rely on network positioning in Google services
 Repair dial interface search flash back
 Optimize power consumption
 
-**Updated last version**
+**Updated Previous Versions**
 
 Repair Card 2 ringtones and display settings
 Remove the built-in Google services , please download and install Magic Fun Center
 Repair depends on the GMS software can not locate a network problem
-
-**Updated Previous Version**
-
 Update the camera , display, vibrator drive
 WIFI drivers and firmware updates
 Fix the problem linux kernel random number generator can not be used
@@ -88,6 +89,8 @@ set multi radio use explained in this readme.  In addition to rooting help we wi
 a multi-radio configuration guide in the Wiki.
 
 **Version Truth Table**
+
+Compiled Oct 12, 2014 = = cm11_NX505J_3.0 = = 11-20141012-UNOFFICIAL-nx505j
 
 Compiled Sept 17, 2014 = = cm11_NX505J_2.0 = = 11-20140917-UNOFFICIAL-nx505j
 
