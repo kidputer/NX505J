@@ -45,7 +45,8 @@ If you need help bring it to a person who knows SU, CWM and CM.
 
 **Current Issues**
 
-Is anyone else having this issue with Gallery Thumbs?  My file permissions might be set wrong.
+Gallery Thumbs blank, Messaging crashes on opening mms message.  
+
 Please report any additional issues you find so I can report to the compiler lwang.
 
 **Updated this version**
