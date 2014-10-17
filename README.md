@@ -40,11 +40,11 @@ Once these Nubia.cn updates have been applied the you can wipe phone data
 areas using CWM v6.0.5.0 and apply cm11_NX505J_3.0 posted here.  Don't forget CM not
 permitted to include some Google Applications.  You should insall gapps.zip
 If you need the Google Applications mentioned above.  CyanogenMod also publishes the signed google apps. Check the wiki for rooting help with the Nubia Z7 Max and some help with loading CM11. Please don't break your phone
-If you need help bring it to a person who knows SU, CWM and CM. You must zip the repository build prior to loading them into a phone.
+If you need help bring it to a person who knows SU, CWM and CM. You must zip the repository build prior to loading the build into a phone.
 
 **Current Issues**
 
-Gallery Thumbs blank (fixed by installing cyanogen gallery, then Android galley thumbs work?), Messaging crashes on opening mms message, Encrypted /data makes phone unable to read some SIM attributes and even its own phone number.  
+Gallery Thumbs blank (fixed by installing cyanogen gallery, then Android gallery thumbs work? Maybe a missing file?), Messaging crashes on opening mms message, Encrypted /data makes phone unable to read some SIM attributes and even its own phone number. After phone is encrypted upon reboot you must wait 22 seconds after the decryption password prompt to enter the password or the device locks up. 
 
 Please report any additional issues you find so I can report to the compiler lwang.
 
